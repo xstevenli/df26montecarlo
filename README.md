@@ -4,3 +4,4 @@
 # "moderate dispersal" simulates outcomes of basing 120 F-22s evenly in 5 air bases (Andersen AFB, Guam Int'l, Tinian Int'l, Rota Int'l and Saipan Int'l).
 # "dispersal" simulates outcomes of basing 120 F-22s evenly in 10 air bases (abovementioned plus RAAF Darwin, RAAF Tindal, North Field Guam, North Field Tinian, and Minami Torishima).
 # "max dispersal" simulates outcomes of basing 120 F-22s evenly in 20 air bases (abovementioned plus Yap, Kosrae, Pohnpei, Chuuk, Wake Island, Palau Int'l, Angaur, Garden Point, Snake Bay, and Bathurst Island).
+# "runs" contains sensitive analyses of various CEPs and IRs.
